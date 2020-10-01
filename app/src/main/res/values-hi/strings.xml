@@ -4,4 +4,10 @@
     <string name="hello_message">Namaste Duniya!</string>
     <string name="ButtonText">Main hoon button</string>
 
+    <string name="loginText">लॉग इन (Login)</string>
+    <string name="loginEdit">Login naam</string>
+    <string name="passText">kunjika</string>
+    <string name="switchText">Yah kya karata hai?</string>
+    <string name="radioText">Rediyo batan</string>
+    <string name="checkText">chekaboks</string>
 </resources>
