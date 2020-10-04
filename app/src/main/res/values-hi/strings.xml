@@ -10,4 +10,13 @@
     <string name="switchText">Yah kya karata hai?</string>
     <string name="radioText">Rediyo batan</string>
     <string name="checkText">chekaboks</string>
+
+    <string name="loginBt">Log in karen</string>
+    <string name="dialog_title">Staart par lauten?</string>
+    <string name="ok">Haan</string>
+    <string name="cancel">Nahin</string>
+    <string name="dialog_message">Kya aap vaakee is prshth ko chhodana chaahate hain?</string>
+    <string name="switchOff">Svich oph hai</string>
+    <string name="switchOn">Svich chaaloo hai</string>
+
 </resources>

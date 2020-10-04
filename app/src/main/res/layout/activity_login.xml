@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:text="@string/loginText"/>
     <EditText
+        android:id="@+id/email_field"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/loginEdit"
@@ -25,4 +26,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPassword"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/loginBt"
+        android:id="@+id/login_button"
+        android:onClick="loginClick"
+        />
 </LinearLayout>

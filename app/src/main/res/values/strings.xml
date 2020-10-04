@@ -8,6 +8,14 @@
     <string name="switchText">What does this do?</string>
     <string name="radioText">RadioButton</string>
     <string name="checkText">CheckBox</string>
+    <string name="loginBt">Login</string>
+    <string name="dialog_title">Return to Start?</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+    <string name="dialog_message">Are yoy sure you want leave this page?</string>
+    <string name="switchOff">Switch is Off</string>
+    <string name="switchOn">Switch is On</string>
+
 
 
 </resources>
