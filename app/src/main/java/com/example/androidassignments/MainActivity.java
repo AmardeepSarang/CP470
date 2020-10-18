@@ -23,6 +23,13 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(i, 10);
     }
 
+    public void chatClickHandler(View view){
+        Log.i(ACTIVITY_NAME,"User clicked Start Chat");
+
+        Intent i = new Intent(this, ChatWindow.class);
+        startActivityForResult(i, 10);
+
+    }
     protected void onActivityResult(int requestCode, int responseCode, Intent data){
         super.onActivityResult(requestCode, responseCode, data);
 

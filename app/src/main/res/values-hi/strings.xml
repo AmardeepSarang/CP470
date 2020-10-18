@@ -19,4 +19,6 @@
     <string name="switchOff">Svich oph hai</string>
     <string name="switchOn">Svich chaaloo hai</string>
 
+    <string name="chatButtonText">baatacheet shuroo keejie</string>
+    <string name="sendBt">bhejen</string>
 </resources>
