@@ -30,6 +30,13 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(i, 10);
 
     }
+
+    public void toolClickHandler(View view) {
+        //toolbar test
+        Intent i = new Intent(this, TestToolbar.class);
+        startActivityForResult(i, 10);
+        Log.i("main", "toolClickHandler: ");
+    }
     protected void onActivityResult(int requestCode, int responseCode, Intent data){
         super.onActivityResult(requestCode, responseCode, data);
 
@@ -73,4 +80,6 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Log.i(ACTIVITY_NAME,"In onDestroy()");
     }
+
+
 }

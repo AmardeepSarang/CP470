@@ -17,6 +17,20 @@
     <string name="switchOn">Switch is On</string>
     <string name="chatButtonText">Start Chat</string>
     <string name="sendBt">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toolButtonText">Test Toolbar</string>
+    <string name="about">About</string>
+    <string name="fabMesg">You clicked me, hello!</string>
+    <string name="op1Select">You selected item 1</string>
+    <string name="enterText">Enter Text</string>
 
 
 </resources>

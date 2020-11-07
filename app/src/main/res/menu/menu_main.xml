@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        android:icon="@drawable/icons8_eye_24"
+        android:orderInCategory="101"
+        android:title="Choice 1"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_two"
+        android:icon="@drawable/icons8_undo_24"
+        android:orderInCategory="102"
+        android:title="Choice 2"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_three"
+        android:icon="@drawable/icons8_edit_24"
+        android:orderInCategory="103"
+        android:title="Choice 3"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_about"
+        app:showAsAction="never"
+        android:icon="@drawable/icons8_trash_24"
+        android:orderInCategory="101"
+        android:title="@string/about" />
+
+</menu>
