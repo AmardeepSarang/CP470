@@ -17,7 +17,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i(ACTIVITY_NAME,"In onCreate()");
     }
-
+    public void weatherClick(View view){
+        Intent i = new Intent(this, WeatherForecast.class);
+        startActivityForResult(i, 10);
+    }
     public void clickHandler(View view){
         Intent i = new Intent(this, ListItemsActivity.class);
         startActivityForResult(i, 10);

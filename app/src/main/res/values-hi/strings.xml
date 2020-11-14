@@ -38,4 +38,10 @@
     <string name="fabMesg">aapane mujhe klik kiya, hailo!</string>
     <string name="op1Select">aapane aaitam 1 ka chayan kiya</string>
     <string name="enterText">likhana praarambh karen</string>
+
+
+    <string name="weatherBt">mausam poorvaanumaan</string>
+    <string name="minTemp">"nyoonatam taapamaan: "</string>
+    <string name="maxTemp">"adhikatam taapamaan: "</string>
+    <string name="curTemp">"vartamaan taapamaan: "</string>
 </resources>
